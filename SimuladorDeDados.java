@@ -14,3 +14,4 @@ public class SimuladorDeDados {
         System.out.println("Soma das jogadas: " + soma);
     }
 }
+
