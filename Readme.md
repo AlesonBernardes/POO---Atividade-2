@@ -32,4 +32,9 @@ Este repositório contém a implementação de diversas tarefas de programação
 
 Para executar qualquer um dos programas, compile o arquivo (.java) correspondente e execute-o com o comando (java).
 
+Por exemplo, para executar o (SimuladorDeDados):
+
+javac SimuladorDeDados.java
+java SimuladorDeDados
+
 
